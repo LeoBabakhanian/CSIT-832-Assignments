@@ -1,0 +1,16 @@
+Mary    Jones   3.9     887196478       may.jones@pierce.edu
+John    Doe     3.5     922415674       johndoe@gmail.com
+Mary    Sue     3.2     110456827       sue-mary@yahoo.com
+Mike    Smith   3.7     101457621       msmith@gmail.com
+Ben     Murray  2.6     556778898       benmurr@pierce.edu
+Albert  Jones   3.1     122010560       albert.jones56@hotmail.com
+Alysa   James   3.4     170556486       dptrson1990@gmail.com
+Gerald  Taylor  2.8     144578913       geraldtaylor556@pierce.edu
+Brenda  Miller  4.1     199283452       b.mill446@yahoo.com
+Kevin   Jones   3.8     114140061       kjones1992@gmail.com
+Tom     Hill    4.2     001424256       t.hill232@pierce.edu
+Suzy    Allen   3.1     992302300       allensuzy@hotmail.com
+Chuck   Norris  4.5     110554004       cnorris@gmail.com
+Tommy   Turner  2.2     430402747       tturnertt@yahoo.com
+James   Morris  2       193293903       jjmorris1121@gmail.com
+Jill    Tucker  3.6     320392312       jtuck23@yahoo.com
