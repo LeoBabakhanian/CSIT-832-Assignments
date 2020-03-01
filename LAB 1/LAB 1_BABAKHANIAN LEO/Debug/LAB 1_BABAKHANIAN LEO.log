@@ -1,0 +1,4 @@
+﻿  Test.cpp
+F:\Computer Science\Data Structures Advanced\LAB 1_BABAKHANIAN LEO\LAB 1_BABAKHANIAN LEO\Test.cpp(36,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Computer Science\Data Structures Advanced\LAB 1_BABAKHANIAN LEO\LAB 1_BABAKHANIAN LEO\Test.cpp(115): warning C4715: 'PowerFunction': not all control paths return a value
+  LAB 1_BABAKHANIAN LEO.vcxproj -> F:\Computer Science\Data Structures Advanced\LAB 1_BABAKHANIAN LEO\Debug\LAB 1_BABAKHANIAN LEO.exe
